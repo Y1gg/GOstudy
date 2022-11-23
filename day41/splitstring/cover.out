@@ -1,0 +1,15 @@
+mode: set
+github/Y1gg/day41/splitstring/split.go:12.45,15.17 3 1
+github/Y1gg/day41/splitstring/split.go:20.2,21.11 2 1
+github/Y1gg/day41/splitstring/split.go:24.2,24.12 1 1
+github/Y1gg/day41/splitstring/split.go:15.17,19.3 3 1
+github/Y1gg/day41/splitstring/split.go:21.11,23.3 1 0
+github/Y1gg/day41/splitstring/split_test copy 2.go:8.30,20.31 3 0
+github/Y1gg/day41/splitstring/split_test copy 2.go:20.31,22.39 2 0
+github/Y1gg/day41/splitstring/split_test copy 2.go:22.39,24.4 1 0
+github/Y1gg/day41/splitstring/split_test copy.go:8.31,11.35 3 0
+github/Y1gg/day41/splitstring/split_test copy.go:11.35,14.3 1 0
+github/Y1gg/day41/splitstring/split_test copy.go:17.31,20.35 3 0
+github/Y1gg/day41/splitstring/split_test copy.go:20.35,23.3 1 0
+github/Y1gg/day41/splitstring/split_test copy.go:26.31,29.35 3 0
+github/Y1gg/day41/splitstring/split_test copy.go:29.35,32.3 1 0
