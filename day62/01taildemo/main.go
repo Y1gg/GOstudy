@@ -22,7 +22,7 @@ func main() {
 	tails, err := tail.TailFile(filename, config)
 	//处理错误
 	if err != nil {
-		fmt.Println("tail file failed  ,err:", err)
+		fmt.Println("taillog file failed  ,err:", err)
 		return
 	}
 
@@ -35,7 +35,7 @@ func main() {
 	for {
 		line, ok = <-tails.Lines
 		if !ok {
-			fmt.Printf("tail file close reopen, filename:%s\n", tails.Filename)
+			fmt.Printf("taillog file close reopen, filename:%s\n", tails.Filename)
 			time.Sleep(time.Second)
 			continue
 		}

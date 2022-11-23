@@ -23,7 +23,7 @@ func Init(fileName string) (err error) {
 	tailObj, err = tail.TailFile(fileName, config)
 	//处理错误
 	if err != nil {
-		fmt.Println("tail file failed  ,err:", err)
+		fmt.Println("taillog file failed  ,err:", err)
 		return
 	}
 	return
